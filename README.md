@@ -1,7 +1,8 @@
 # minidoc
 ---
 
-#### Example Session:
+##### Example Session:
+
 
     >>> import minidoc
     >>> a = minidoc.elem("foo")
